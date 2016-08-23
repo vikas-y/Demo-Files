@@ -1,0 +1,1 @@
+nlapiSetLineItemValue(sublist, fldnam, linenum, value)
